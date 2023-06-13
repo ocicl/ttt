@@ -1,0 +1,10 @@
+* ttt
+
+My personal copy of the TTT library.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/genelkim/ttt.git   |
+| commit  | 0f28768  |
+| systems | ttt |
+|---------+-------------------------------------------|
+
